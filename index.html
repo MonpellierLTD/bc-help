@@ -5,8 +5,28 @@
   <title>BC Help</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+<style>
+    /* Sidebar logo styling */
+    #sidebar-logo {
+      text-align: center;
+      padding: 10px;
+    }
+
+    #sidebar-logo img {
+      max-width: 150px;
+    }
+
+    /* Optional: adjust sidebar padding below logo */
+    .sidebar {
+      padding-top: 10px;
+    }
+  </style>
 </head>
 <body>
+   <!-- Logo above sidebar -->
+  <div id="sidebar-logo" style="text-align:center; padding:10px;">
+    <img src="images/logo.png" alt="Monpellier Logo" style="max-width:150px;">
+  </div>
   <div id="app">Loading...</div>
  
   <script>
@@ -20,4 +40,5 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
+
 
