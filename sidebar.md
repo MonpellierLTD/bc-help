@@ -8,3 +8,4 @@
 
 - **Resources**
   - [FAQ](faq.md)
+  - [Markdown Cheat Sheet](markdown-cheat-sheet.md)
