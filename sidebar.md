@@ -1,5 +1,3 @@
-![Monpellier Logo](images/logo.png)
-
 - [Home](/)
 
 - **Getting Started**
