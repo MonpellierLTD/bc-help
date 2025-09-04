@@ -6,4 +6,3 @@ This is the help page for **My Custom Page** in Business Central.
 - Press **Alt+F1**
 - You’ll be redirected here!
 
-![DXSetup](images/DXSetup.png)
