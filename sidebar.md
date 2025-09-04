@@ -1,7 +1,7 @@
 - [Home](/)
 
-- **Getting Started**
-  - [Installation & Setup](getting-started.md)
+- **User Guides**
+  - [DX Integration](dx-integration.md)
 
 - **Extension Help**
   - [My Custom Page](my-custom-page.md)
